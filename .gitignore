@@ -168,7 +168,7 @@ cython_debug/
 #.idea/
 
 Collected_Images/*
-
+artifacts/*
 # Ruff stuff:
 .ruff_cache/
 
