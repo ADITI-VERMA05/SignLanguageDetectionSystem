@@ -169,6 +169,7 @@ cython_debug/
 
 Collected_Images/*
 artifacts/*
+
 # Ruff stuff:
 .ruff_cache/
 
