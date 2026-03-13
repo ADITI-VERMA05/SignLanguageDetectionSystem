@@ -45,3 +45,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+<img width="2560" height="1504" alt="Screenshot 2025-05-13 235813" src="https://github.com/user-attachments/assets/a07e75d0-96c9-4230-bedc-fd2c73a852b6" />
